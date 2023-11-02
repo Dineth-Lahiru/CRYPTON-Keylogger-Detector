@@ -1,1 +1,1 @@
-# CRYPTON-Keylogger-Detector
+# CRYPTON Keylogger Detector
